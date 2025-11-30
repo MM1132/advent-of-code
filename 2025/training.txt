@@ -1,0 +1,16 @@
+Python
+Set operations
+- & | ^
+
+Add `j` for complex numbers
+They are the ones used in the fractol task
+Rotations
+
+a[0::2]
+a[1::2]
+Reverse:
+a[::-1]
+
+"Hello"[::-1]
+
+
